@@ -23,8 +23,6 @@
 Plugin:
 
 ```shell
-asdf plugin add lorem
-# or
 asdf plugin add lorem https://github.com/theutz/asdf-lorem.git
 ```
 
