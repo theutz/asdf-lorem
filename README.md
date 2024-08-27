@@ -2,7 +2,7 @@
 
 # asdf-lorem [![Build](https://github.com/theutz/asdf-lorem/actions/workflows/build.yml/badge.svg)](https://github.com/theutz/asdf-lorem/actions/workflows/build.yml) [![Lint](https://github.com/theutz/asdf-lorem/actions/workflows/lint.yml/badge.svg)](https://github.com/theutz/asdf-lorem/actions/workflows/lint.yml)
 
-[lorem](https://github.com/theutz/lorem) plugin for the [asdf version manager](https://asdf-vm.com).
+[lorem](https://github.com/per9000/lorem) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
